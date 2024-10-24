@@ -1,0 +1,252 @@
+﻿@model JobPortalSystem_Exercise.Dtos.CompanyDto
+@{
+    ViewData["Title"] = "CompanyRegistration";
+    Layout = "~/Views/Shared/_JobLayout.cshtml";
+}
+
+<style>
+    #main {
+        margin-top: 60px;
+        padding: 20px 30px;
+        transition: all 0.3s;
+    }
+
+    media (max-width: 1199px) {
+        #main
+
+    {
+        padding: 20px;
+    }
+
+    }
+
+    .breadcrumb {
+        font-size: 14px;
+        font-family: "Nunito", sans-serif;
+        color: #899bbd;
+        font-weight: 600;
+    }
+
+        .breadcrumb a {
+            color: #899bbd;
+            transition: 0.3s;
+        }
+
+            .breadcrumb a:hover {
+                color: #51678f;
+            }
+
+        .breadcrumb .breadcrumb-item::before {
+            color: #899bbd;
+        }
+
+        .breadcrumb .active {
+            color: #51678f;
+            font-weight: 600;
+        }
+
+    .pagetitle {
+        margin-bottom: 10px;
+    }
+
+        .pagetitle h1 {
+            font-size: 24px;
+            margin-bottom: 0;
+            font-weight: 600;
+            color: #012970;
+        }
+
+    .card {
+        margin-bottom: 30px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+    }
+
+    .card-header,
+    .card-footer {
+        border-color: #ebeef4;
+        background-color: #fff;
+        color: #798eb3;
+        padding: 15px;
+    }
+
+    .card-title {
+        padding: 20px 0 15px 0;
+        font-size: 18px;
+        font-weight: 500;
+        color: #012970;
+        font-family: "Poppins", sans-serif;
+    }
+
+        .card-title span {
+            color: #899bbd;
+            font-size: 14px;
+            font-weight: 400;
+        }
+
+    .card-body {
+        padding: 0 20px 20px 20px;
+    }
+
+    .card-img-overlay {
+        background-color: rgba(255, 255, 255, 0.6);
+    }
+
+    .card-body {
+        padding: 0 20px 20px 20px;
+    }
+
+    .card-title {
+        padding: 20px 0 15px 0;
+        font-size: 18px;
+        font-weight: 500;
+        color: #012970;
+        font-family: "Poppins", sans-serif;
+    }
+    .color{
+        background-color: #004f83;
+        color: white;
+    }
+</style>
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Company Registration</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="JobProvider" asp-action="Index">Dashboard</a></li>
+                <li class="breadcrumb-item active">Company Registration</li>
+            </ol>
+        </nav>
+    </div>
+    @* @if (Model.Image != null)
+    {
+        <img src="data:image/png;base64,@Model.Image" alt="Company Logo" width="200" />
+    }
+     *@
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.errorMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Enter Your Company Details</h5>
+
+            <!-- Floating Labels Form -->
+            <form class="row g-3" method="post" enctype="multipart/form-data">
+                <div class="col-md-12">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" asp-for="Name" id="floatingName" placeholder="Company Name">
+                        <label for="floatingName">Company Name</label>
+                    </div>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input type="email" class="form-control" asp-for="Email" id="floatingEmail" placeholder="Company Email">
+                        <label for="floatingEmail">Company Email</label>
+                    </div>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" asp-for="Website" id="floatingWebsite" placeholder="Website">
+                        <label for="floatingWebsite">Website</label>
+                    </div>
+                        <span asp-validation-for="Website" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input type="number" class="form-control" asp-for="Phone" id="floatingPhone" placeholder="Phone number">
+                        <label for="floatingPhone">Phone number</label>
+                    </div>
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input type="file" class="form-control" asp-for="ImageFile" id="floatingImage" placeholder="Company Logo">
+                        <label for="floatingImage">Company Logo</label>
+                    </div>
+                        <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+                <div class="col-md-8">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" asp-for="Address" id="floatingAddress" placeholder="Address">
+                        <label for="floatingAddress">Address</label>
+                    </div>
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" asp-for="Location" id="floatingLocation" placeholder="Location">
+                        <label for="floatingLocation">Location</label>
+                    </div>
+                        <span asp-validation-for="Location" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" asp-for="Vision" id="floatingVision" placeholder="Vision">
+                        <label for="floatingVision">Vision</label>
+                    </div>
+                        <span asp-validation-for="Vision" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" asp-for="Mission" id="floatingMission" placeholder="Mission">
+                        <label for="floatingMission">Mission</label>
+                    </div>
+                        <span asp-validation-for="Mission" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <div class="form-floating">
+                        <textarea class="form-control" asp-for="About" placeholder="About" id="floatingTextarea" style="height: 100px;"></textarea>
+                        <label for="floatingTextarea">About</label>
+                    </div>
+                        <span asp-validation-for="About" class="text-danger"></span>
+                </div>
+                
+                @* <div class="col-md-6">
+                    <div class="col-md-12">
+                        <div class="form-floating">
+                            <input type="text" class="form-control" id="floatingCity" placeholder="City">
+                            <label for="floatingCity">City</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-floating mb-3">
+                        <select class="form-select" id="floatingSelect" aria-label="State">
+                            <option selected>New York</option>
+                            <option value="1">Oregon</option>
+                            <option value="2">DC</option>
+                        </select>
+                        <label for="floatingSelect">State</label>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" id="floatingZip" placeholder="Zip">
+                        <label for="floatingZip">Zip</label>
+                    </div>
+                </div> *@
+                <div class="text-center">
+                    <button type="submit" class="btn color">Submit</button>
+                    <button type="reset" class="btn btn-secondary">Reset</button>
+                </div>
+            </form><!-- End floating Labels Form -->
+
+        </div>
+    </div>
+
+    @if (!string.IsNullOrEmpty(ViewBag.successMessage))
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.successMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+</main>

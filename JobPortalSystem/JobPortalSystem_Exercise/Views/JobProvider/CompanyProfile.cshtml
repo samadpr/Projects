@@ -1,0 +1,147 @@
+﻿@model JobPortalSystem_Exercise.Models.Company
+@{
+    ViewData["Title"] = "Company Profile";
+    Layout = "~/Views/Shared/_JobLayout.cshtml";
+}
+<style>
+    #main {
+        margin-top: 60px;
+        padding: 20px 30px;
+        transition: all 0.3s;
+    }
+
+    media (max-width: 1199px) {
+        #main
+
+    {
+        padding: 20px;
+    }
+
+    }
+
+    .breadcrumb {
+        font-size: 14px;
+        font-family: "Nunito", sans-serif;
+        color: #899bbd;
+        font-weight: 600;
+    }
+
+        .breadcrumb a {
+            color: #899bbd;
+            transition: 0.3s;
+        }
+
+            .breadcrumb a:hover {
+                color: #51678f;
+            }
+
+        .breadcrumb .breadcrumb-item::before {
+            color: #899bbd;
+        }
+
+        .breadcrumb .active {
+            color: #51678f;
+            font-weight: 600;
+        }
+
+    .pagetitle {
+        margin-bottom: 10px;
+    }
+
+        .pagetitle h1 {
+            font-size: 24px;
+            margin-bottom: 0;
+            font-weight: 600;
+            color: #012970;
+        }
+
+
+</style>
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Company Profile</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="JobProvider" asp-action="Index">Dashboard</a></li>
+                <li class="breadcrumb-item active">CompanyProfile</li>
+            </ol>
+        </nav>
+    </div>
+    <section class="h-100">
+        <div class="container py-5 h-100 ">
+            <div class="row d-flex justify-content-center">
+                <div class="col col-lg-9 col-xl-8">
+                    <div class="card shadow">
+                        <div class="rounded-top text-white d-flex flex-row" style="background-color: #0067ac; height:200px;">
+                            <div class="ms-4 mt-5 d-flex flex-column" style="width: 150px;">
+                                <img src="data:image/png;base64,@(Model.Logo != null ? Convert.ToBase64String(@Model.Logo) : "")"
+                                     alt="Generic placeholder image" class="img-fluid img-thumbnail mt-4 mb-2"
+                                     style="width: 150px; z-index: 1">
+                                <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-outline-dark text-body" data-mdb-ripple-color="dark" style="z-index: 1;">
+                                    Edit profile
+                                </button>
+                            </div>
+                            <div class="ms-3" style="margin-top: 130px;">
+                                <h5>@Model.Name</h5>
+                                <p>@Model.Location</p>
+                                
+                            </div>
+                        </div>
+                        <div class="p-4 text-black bg-body-tertiary">
+                            <div class="d-flex justify-content-end text-center py-1 text-body">
+                                <div>
+                                    <p class="mb-1 h5">253</p>
+                                    <p class="small text-muted mb-0">Photos</p>
+                                </div>
+                                <div class="px-3">
+                                    <p class="mb-1 h5">1026</p>
+                                    <p class="small text-muted mb-0">Followers</p>
+                                </div>
+                                <div>
+                                    <p class="mb-1 h5">478</p>
+                                    <p class="small text-muted mb-0">Following</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-body p-4 text-black">
+                            <p><strong>Address:</strong> @Model.Address</p>
+                            <p><strong>Phone:</strong> @Model.Phone</p>
+                            <p><strong>Email:</strong> @Model.Email</p>
+                            <div class="mb-5">
+                                <h5 class="fw-normal">About</h5>
+                                <p>@Model.About</p>
+                            </div>
+
+                            <div class="mb-5">
+                                <h5 class="fw-normal">Vision</h5>
+                                <p>@Model.Vision</p>
+                            </div>
+
+                            <div class="mb-5">
+                                <h5 class="fw-normal">Mission</h5>
+                                <p>@Model.Mission</p>
+                            </div>
+
+                            <div class="mb-5">
+                                <h5 class="fw-normal">Website</h5>
+                                <a href="@Model.Website" target="_blank">@Model.Website</a>
+                            </div>
+                        </div>
+                        @* <div class="card-body p-4 text-black">
+                            <div class="mb-5  text-body">
+                                <p class="lead fw-normal mb-1">About</p>
+                                <div class="p-4 bg-body-tertiary">
+                                    <p class="font-italic mb-1">Web Developer</p>
+                                    <p class="font-italic mb-1">Lives in New York</p>
+                                    <p class="font-italic mb-0">Photographer</p>
+                                </div>
+                            </div>
+                            
+                        </div> *@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

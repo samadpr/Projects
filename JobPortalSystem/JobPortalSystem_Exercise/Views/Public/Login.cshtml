@@ -1,0 +1,56 @@
+﻿@model JobPortalSystem_Exercise.Dtos.LoginDto
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+<h1 class="text-center">Login</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-4 mx-auto rounded p-3">
+        <section>
+            <h2 class="text-center mb-3">Please Login</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <form id="account" method="post">
+
+                <div class=" mb-3">
+                    <label class="form-label">Email</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Password</label>
+                    <input type="password" asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="checkbox mb-3">
+                    <label asp-for="RememberMe" class="form-label">
+                        <input class="form-check-input" asp-for="RememberMe" />
+                        @Html.DisplayNameFor(m => m.RememberMe)
+                    </label>
+                </div>
+                <div class="row mb-3">
+                    <div class="col d-grid">
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </div>
+                    <div class="col d-grid">
+                        <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+                    </div>
+                </div>
+                <div>
+                    <a class="btn btn-link" id="forgot-password">Forgot your password?</a>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>

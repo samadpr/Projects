@@ -1,0 +1,110 @@
+﻿@model JobPortalSystem_Exercise.Dtos.UserDto
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="container d-flex justify-content-center align-items-center">
+    <div class="col-lg-6 mx-auto rounded border p-3">
+        <h2 class="text-center mb-3">Create an Account
+            @* <p class="text-muted">Enter your personal details to create account</p> *@
+        </h2>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+        <form id="registerForm" method="post">
+            <!-- First Name Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">First Name</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="FirstName" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Last Name Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Last Name</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="LastName" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Email Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Email</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Phone Number Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Phone Number</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Phone" pattern="^\d{10}$" />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Password Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Password</label>
+                <div class="col-sm-8">
+                    <input type="password" class="form-control" asp-for="Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Confirm Password Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Confirm Password</label>
+                <div class="col-sm-8">
+                    <input type="password" class="form-control" asp-for="ConfirmPassword" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Gender Password Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Gender</label>
+                <div class="col-sm-8">
+                    <select class="form-select" asp-for="Gender">
+                        <option value="">-- Select Gender --</option>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                        <option value="Other">Other</option>
+                    </select>
+                    <span asp-validation-for="Gender" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Role Section -->
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Select Your Role</label>
+                <div class="col-sm-8">
+                    <select class="form-select" asp-for="Role" asp-items="Html.GetEnumSelectList<JobPortalSystem_Exercise.Enums.Roles>()">
+                        <option value="">-- Select Role --</option>
+                    </select>
+                    <span asp-validation-for="Role" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- Buttons Section -->
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" href="/">Cancel</a>
+                </div>
+            </div>
+        </form>
+        <hr />
+        <div class="text-center">
+            <font size="3" face="Roboto"> Already have an account?  </font> <a asp-page="/Public/Login"><font color="49A1D3" size="3" face="Roboto"> Sign in </font></a>
+        </div>
+    </div>
+</div>
