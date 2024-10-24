@@ -1,0 +1,29 @@
+<div class="sidenav" [ngClass]="collapsed ? 'sidenav-collapsed': ''">
+    <div class="logo-container">
+        <button class="logo" (click)="toggleCollapse()">H</button>
+        <div class="logo-text" *ngIf="collapsed">HireMe Now!</div>
+        <button class="btn-close" *ngIf="collapsed" (click)="closeSidenav()">
+            <i class="fal fa-times close-icon"></i>
+        </button>
+    </div>
+    <div class="sideNav-profile" *ngIf="collapsed">
+        <div class="userdetails" *ngFor="let user of userProfile">
+            <!-- <p class="avthar">{{ user.firstname?.slice(0, 1) | uppercase}}{{ user.lastname?.slice(0, 1) | uppercase}}</p> -->
+            <img [src]="user.profileImg" alt="">
+            <div class="profile-text">
+                <h3>{{user.userName| uppercase}} </h3>
+                <!-- {{ user.lastname | uppercase}} -->
+                <p>{{user.userEmail| lowercase}}</p>
+            </div>
+        </div>
+    </div>
+    <ul class="sidenav-nav">
+        <li class="sidenav-nav-item" *ngFor="let data of navData">
+            <a class="sidenav-nav-link" [routerLink]="data.routeLink" routerLinkActive="active"
+                [routerLinkActiveOptions]="{exact: true}">
+                <i class="sidenav-link-icon" [class]="data.icon"></i>
+                <span class="sidenav-link-text" *ngIf="collapsed">{{ data.label }}</span>
+            </a>
+        </li>
+    </ul>
+</div>
