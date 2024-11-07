@@ -1,189 +1,189 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\",
+  "WorkspaceRootPath": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\data\\repository\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\data\\repository\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\data\\repository\\publicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\data\\repository\\publicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\public\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\public\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\companyprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\companyprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\data\\repository\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\data\\repository\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\data\\repository\\publicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\data\\repository\\publicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\public\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\public\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\companyprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\companyprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\shared\\_joblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\shared\\_joblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\shared\\_joblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\services\\jobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\services\\jobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\services\\jobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\models\\jobportalexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\models\\jobportalexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\models\\jobportalexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\interface\\ijobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\interface\\ijobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\interface\\ijobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\interface\\ijobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\interface\\ijobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\interface\\ijobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\listjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\listjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\listjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\companyregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\companyregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\companyregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\appliedjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\appliedjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\appliedjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\interface\\ipublicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\interface\\ipublicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\interface\\ipublicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobprovider\\addjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobprovider\\addjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobprovider\\addjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\jobseeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\jobseeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\jobseeker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\full stark developer\\asp .net core\\mvc\\jobportalsystem_exercise\\jobportalsystem_exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|d:\\git for aitrich project\\projects show on git\\jobportalsystem\\jobportalsystem_exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{01D348D1-6ABA-42EF-9BB6-FFC3CCB5113F}|JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj|solutionrelative:jobportalsystem_exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -194,39 +194,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:03:22.117Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
-              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
-              "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T13:20:55.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CompanyProfile.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyProfile.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyProfile.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyProfile.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyProfile.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyProfile.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyProfile.cshtml",
               "ViewState": "AQIAAHsAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -234,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\Index.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\Index.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\Index.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\Index.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\Index.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\Index.cshtml",
               "ViewState": "AQIAAJYAAAAAAAAAAAAAAKEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -246,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "JobProviderRepository.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Data\\Repository\\JobProviderRepository.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Data\\Repository\\JobProviderRepository.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Data\\Repository\\JobProviderRepository.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Data\\Repository\\JobProviderRepository.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Data\\Repository\\JobProviderRepository.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Data\\Repository\\JobProviderRepository.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwCQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,11 +238,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "JobProviderController.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\JobProviderController.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\JobProviderController.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\JobProviderController.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\JobProviderController.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\JobProviderController.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\JobProviderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\Profile.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\Profile.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\Profile.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\Profile.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\Profile.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\Profile.cshtml",
               "ViewState": "AQIAAJAAAAAAAAAAAAAAAJsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -283,11 +263,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:16:39.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
+              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
+              "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Public\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:20:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
+              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
+              "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:17:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:03:22.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PublicRepository.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Data\\Repository\\PublicRepository.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Data\\Repository\\PublicRepository.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Data\\Repository\\PublicRepository.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Data\\Repository\\PublicRepository.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Data\\Repository\\PublicRepository.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Data\\Repository\\PublicRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Program.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Program.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Program.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Program.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Program.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,23 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
-              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
-              "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Public\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T13:17:05.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Roles.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Enums\\Roles.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Enums\\Roles.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Enums\\Roles.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Enums\\Roles.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Enums\\Roles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,23 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PublicController.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
-              "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
-              "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\PublicController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:16:39.623Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Dtos\\LoginDto.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Dtos\\LoginDto.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Dtos\\LoginDto.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Dtos\\LoginDto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,9 +363,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "_JobLayout.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Shared\\_JobLayout.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Shared\\_JobLayout.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Shared\\_JobLayout.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Shared\\_JobLayout.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Shared\\_JobLayout.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Shared\\_JobLayout.cshtml",
               "ViewState": "AQIAAGgBAAAAAAAAAAAAAGwBAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -369,9 +375,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ApplicationServiceExtensions.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Extensions\\ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Extensions\\ApplicationServiceExtensions.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Extensions\\ApplicationServiceExtensions.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAIAwwBQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "JobPortalExDbContext.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\JobPortalExDbContext.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\JobPortalExDbContext.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Models\\JobPortalExDbContext.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\JobPortalExDbContext.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\JobPortalExDbContext.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Models\\JobPortalExDbContext.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAIAwwA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -393,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "PublicService.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Services\\PublicService.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Services\\PublicService.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Services\\PublicService.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Services\\PublicService.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Services\\PublicService.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Services\\PublicService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,9 +411,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "JobProviderService.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Services\\JobProviderService.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Services\\JobProviderService.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Services\\JobProviderService.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Services\\JobProviderService.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Services\\JobProviderService.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Services\\JobProviderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,9 +423,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "CompanyDto.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Dtos\\CompanyDto.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Dtos\\CompanyDto.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Dtos\\CompanyDto.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Dtos\\CompanyDto.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Dtos\\CompanyDto.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Dtos\\CompanyDto.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA4wBwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -429,9 +435,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "IJobProviderRepository.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IJobProviderRepository.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IJobProviderRepository.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Interface\\IJobProviderRepository.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IJobProviderRepository.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IJobProviderRepository.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Interface\\IJobProviderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAvwAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,9 +447,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "IJobProviderService.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IJobProviderService.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IJobProviderService.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Interface\\IJobProviderService.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IJobProviderService.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IJobProviderService.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Interface\\IJobProviderService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAvwAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -453,9 +459,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\User.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\User.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Models\\User.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\User.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\User.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Models\\User.cs",
               "ViewState": "AQIAABUAAAAAAAAAAIA+wB0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -465,9 +471,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "IPublicService.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IPublicService.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IPublicService.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Interface\\IPublicService.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IPublicService.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IPublicService.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Interface\\IPublicService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -477,9 +483,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Settings.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\Settings.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\Settings.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\Settings.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\Settings.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\Settings.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\Settings.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -489,9 +495,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ListJobs.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\ListJobs.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\ListJobs.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\ListJobs.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\ListJobs.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\ListJobs.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\ListJobs.cshtml",
               "ViewState": "AQIAAC8AAAAAAAAAAAAqwEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -501,9 +507,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "CompanyRegistration.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyRegistration.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyRegistration.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyRegistration.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyRegistration.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyRegistration.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\CompanyRegistration.cshtml",
               "ViewState": "AQIAAHIAAAAAAAAAAAAuwL0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -513,9 +519,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Helpers\\AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Helpers\\AutoMapperProfiles.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Helpers\\AutoMapperProfiles.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Helpers\\AutoMapperProfiles.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Helpers\\AutoMapperProfiles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,9 +531,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Company.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Company.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Models\\Company.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Company.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Company.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Models\\Company.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAIwCcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,9 +543,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "JobSeekerController.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\JobSeekerController.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\JobSeekerController.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\JobSeekerController.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\JobSeekerController.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\JobSeekerController.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\JobSeekerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,9 +555,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "AppliedJobs.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\AppliedJobs.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\AppliedJobs.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\AppliedJobs.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\AppliedJobs.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\AppliedJobs.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\AppliedJobs.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -561,9 +567,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "IPublicRepository.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IPublicRepository.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IPublicRepository.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Interface\\IPublicRepository.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Interface\\IPublicRepository.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Interface\\IPublicRepository.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Interface\\IPublicRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -573,9 +579,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -585,9 +591,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "AddJobs.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\AddJobs.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\AddJobs.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobProvider\\AddJobs.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobProvider\\AddJobs.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobProvider\\AddJobs.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobProvider\\AddJobs.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -597,9 +603,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Job.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Job.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Job.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Models\\Job.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Job.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Job.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Models\\Job.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,9 +615,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "_PublicLayout.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Shared\\_PublicLayout.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Shared\\_PublicLayout.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Shared\\_PublicLayout.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Shared\\_PublicLayout.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Shared\\_PublicLayout.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Shared\\_PublicLayout.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -621,9 +627,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAADcAAAAAAAAAAAAmwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -633,9 +639,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -645,9 +651,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobSeeker\\Index.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobSeeker\\Index.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\JobSeeker\\Index.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\JobSeeker\\Index.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\JobSeeker\\Index.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\JobSeeker\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -657,9 +663,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\wwwroot\\css\\site.css",
               "RelativeToolTip": "JobPortalSystem_Exercise\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -669,9 +675,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "site.js",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\wwwroot\\js\\site.js",
               "RelativeToolTip": "JobPortalSystem_Exercise\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -681,9 +687,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Controllers\\AdminController.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Controllers\\AdminController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -693,9 +699,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Views\\Admin\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -705,9 +711,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Dtos\\UserDto.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Dtos\\UserDto.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Dtos\\UserDto.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Dtos\\UserDto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -717,9 +723,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "Interview.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Interview.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Interview.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Models\\Interview.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Interview.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Interview.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Models\\Interview.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -729,9 +735,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\appsettings.json",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\appsettings.json",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\appsettings.json",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\appsettings.json",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\appsettings.json",
               "RelativeToolTip": "JobPortalSystem_Exercise\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -741,9 +747,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "Application.cs",
-              "DocumentMoniker": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Application.cs",
+              "DocumentMoniker": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Application.cs",
               "RelativeDocumentMoniker": "JobPortalSystem_Exercise\\Models\\Application.cs",
-              "ToolTip": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\Models\\Application.cs",
+              "ToolTip": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\Models\\Application.cs",
               "RelativeToolTip": "JobPortalSystem_Exercise\\Models\\Application.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

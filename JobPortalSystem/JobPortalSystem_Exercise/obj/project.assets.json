@@ -4107,11 +4107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj",
+      "projectUniqueName": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj",
       "projectName": "JobPortalSystem_Exercise",
-      "projectPath": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj",
+      "projectPath": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise.csproj",
       "packagesPath": "C:\\Users\\asama\\.nuget\\packages\\",
-      "outputPath": "D:\\Full stark developer\\Asp .Net Core\\MVC\\JobPortalSystem_Exercise\\JobPortalSystem_Exercise\\obj\\",
+      "outputPath": "D:\\git for aitrich project\\projects show on git\\JobPortalSystem\\JobPortalSystem_Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
